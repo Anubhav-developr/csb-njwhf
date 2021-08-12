@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-njwhf/static/css/main.76edff54.chunk.css",
+    "main.js": "https://.github.io/csb-njwhf/static/js/main.4e291907.chunk.js",
+    "main.js.map": "https://.github.io/csb-njwhf/static/js/main.4e291907.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-njwhf/static/js/runtime-main.f5d146d8.js",
+    "runtime-main.js.map": "https://.github.io/csb-njwhf/static/js/runtime-main.f5d146d8.js.map",
+    "static/js/2.ccb297b9.chunk.js": "https://.github.io/csb-njwhf/static/js/2.ccb297b9.chunk.js",
+    "static/js/2.ccb297b9.chunk.js.map": "https://.github.io/csb-njwhf/static/js/2.ccb297b9.chunk.js.map",
+    "index.html": "https://.github.io/csb-njwhf/index.html",
+    "static/css/main.76edff54.chunk.css.map": "https://.github.io/csb-njwhf/static/css/main.76edff54.chunk.css.map",
+    "static/js/2.ccb297b9.chunk.js.LICENSE.txt": "https://.github.io/csb-njwhf/static/js/2.ccb297b9.chunk.js.LICENSE.txt",
+    "static/media/FOOTERIMG.d7d3514c.jpg": "https://.github.io/csb-njwhf/static/media/FOOTERIMG.d7d3514c.jpg",
+    "static/media/HEADER.41dd9559.jpg": "https://.github.io/csb-njwhf/static/media/HEADER.41dd9559.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d146d8.js",
+    "static/js/2.ccb297b9.chunk.js",
+    "static/css/main.76edff54.chunk.css",
+    "static/js/main.4e291907.chunk.js"
+  ]
+}
